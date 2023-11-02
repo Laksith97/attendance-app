@@ -1,0 +1,1 @@
+Attendance App for the individual project
